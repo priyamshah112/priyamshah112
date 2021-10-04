@@ -19,11 +19,11 @@
 <b><i>Let's connect! Find me on the web.</i></b>  
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/priyamshah112/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white""></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/priyamshah112/"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/priyamshah112/"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/priyamshah112"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:priyamshah112@gmail.com"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white""></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/priyamshah112" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:priyamshah112@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
   
 
 </p>
@@ -86,18 +86,18 @@
 
 <p align="center">
   
-<a href="https://github.com/priyamshah112">
+<a href="https://github.com/priyamshah112" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyamshah112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Priyam Shah | Stats" />
 </a>
 
 <br />
 <br />
 
-<a href="https://github.com/priyamshah112/RideX">
+<a href="https://github.com/priyamshah112/RideX" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamshah112&repo=RideX&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/priyamshah112/HireChain">
+<a href="https://github.com/priyamshah112/HireChain" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priyamshah112&repo=HireChain&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  
 
@@ -108,7 +108,7 @@
 <p align=center>
 <img height="25" src="https://badges.pufler.dev/visits/priyamshah112/priyamshah112?color=black&logo=github" />
  &nbsp; &nbsp;
-<a href="https://github.com/priyamshah112"><img height="25" src="https://komarev.com/ghpvc/?username=priyamshah112&color=brightgreen" /></a>
+<a href="https://github.com/priyamshah112" target="_blank"><img height="25" src="https://komarev.com/ghpvc/?username=priyamshah112&color=brightgreen" /></a>
 
 </a>
 </p>
