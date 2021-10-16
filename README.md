@@ -11,7 +11,7 @@
 
 * Research Paper based on [Sign Language Recoginition using CNN](https://www.springer.com/gp/book/9783030814618) was presented at **5th International Conference, ICACDS 2021 - [ICACDS 2021](https://www.springer.com/gp/book/9783030814618)** and published in Springer. 
 * Certified Product Manager from Brightigo Product School. View the certificate [here](https://drive.google.com/file/d/1Lqx0jQ6KlJc8SEg_uKuttcJn71AmToak/view?usp=drivesdk).
-* Completed 15+ client side projects as a freelancer.
+* Completed 16+ client side projects as a freelancer.
 
 <br />
 
