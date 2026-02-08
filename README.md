@@ -8,7 +8,6 @@
 * 🎓 Computer Engineer with a strong academic foundation and a builder’s mindset.
 * 💡 Research interests in **Blockchain**, **Parallel & Distributed Systems**, and **AI**.
 * 🧠 Certified Product Manager (Brightigo Product School).
-* 📄 View my [Resume](./Resume.pdf).
 * 🎯 Hobbies: anime, cricket, and basketball.
 
 ### ✨ Career Highlights
@@ -20,11 +19,7 @@
 ### 🔗 Let’s Connect
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/facebook-blue.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/priyamshah112" target="_blank"><img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="mailto:priyamshah112@gmail.com" target="_blank"><img height="30" src="https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/priyamshah112/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
